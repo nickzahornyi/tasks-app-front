@@ -1,2 +1,1 @@
-# tasks-app-front
-tasks-app-front
+# tasks app front

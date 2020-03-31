@@ -1,0 +1,14 @@
+.form {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+
+  .wrap {
+    width: 330px;
+
+    .send {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  }
+}

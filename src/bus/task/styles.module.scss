@@ -1,0 +1,39 @@
+.taskManager {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px 30px 0;
+
+    .controls {
+      button {
+        margin-right: 30px;
+
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+
+    .logout {
+      margin-left: 30px;
+    }
+  }
+
+  .wrap {
+    margin-top: 50px;
+    width: 600px;
+  }
+}
+
+.taskCreator {
+  padding: 30px 30px;
+
+  .send {
+    margin-top: 15px;
+  }
+}
