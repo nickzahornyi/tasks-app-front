@@ -12,7 +12,7 @@ import { FormikTextField } from 'formik-office-ui-fabric-react';
 // Hooks
 import { useLogin } from './hooks/useLogin';
 
-// Validators
+// Validators>
 import {validateInput} from '../../validators/validateInput';
 import {validateEmail} from '../../validators/validateEmail';
 

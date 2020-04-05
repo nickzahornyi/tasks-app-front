@@ -17,7 +17,7 @@ import { useId } from '@uifabric/react-hooks';
 
 // Hooks
 import { useTasksLoader } from './hooks/useTasksLoader';
-import {useTasksCleaner} from './hooks/useTasksCleaner';
+import { useTasksCleaner } from './hooks/useTasksCleaner';
 import { useProfile } from '../customer/hooks/useProfile';
 import { useLogout } from '../customer/hooks/useLogout';
 import { useTaskCleaner } from './hooks/useTaskCleaner';
